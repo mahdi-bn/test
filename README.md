@@ -1,2 +1,2 @@
 # test
-test the futuree
+test the future
